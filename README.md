@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. Also, This example will also aggregate my domain to the osticket for this project. This is for experimental use. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -12,9 +12,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Local Linux Laptop 
+- A domain
 
 <h2>Operating Systems Used </h2>
 
@@ -22,11 +21,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- A domain  
+- Linux Server or Laptop  
+- Apache2 (httpd)
+- php 8.4 
+- Local MariaDB
 
 <h2>Installation Steps</h2>
 
