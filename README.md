@@ -6,14 +6,11 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. Also, This example will also aggregate my domain to the osticket for this project. This is for experimental use. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Debian](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Local Linux Laptop 
-- A domain
+- A domain Name
 
 <h2>Operating Systems Used </h2>
 
