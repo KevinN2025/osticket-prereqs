@@ -29,11 +29,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1910" height="651" alt="image" src="https://github.com/user-attachments/assets/3fd16737-bf64-4418-8e82-88818a850309" />
 </p>
 <p>
-   
+   This installs most of the dependencies needed for Osticket.
+
 ```bash
    sudo apt install apache2 mariadb-server php php-cli php-common php-gd php-mysql php-mbstring php-xml php-curl php-zip unzip -y
 ```
-This installs most of the dependencies needed for Osticket.
 </p>
 <br />
 
