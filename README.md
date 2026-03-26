@@ -121,5 +121,11 @@ This step is setting up your domain name to your apache directory
 Success, the Doamin Name was aggreagted with Apache and set OSTicket as the new default for the front page of the website.
 </p>
 
+<p>
+   Result:
+
+   <img width="1836" height="545" alt="proof" src="https://github.com/user-attachments/assets/093caa90-bb42-4509-b433-f3eaa2d0dc6d" />
+</p>
+
 </p>
 <br />
