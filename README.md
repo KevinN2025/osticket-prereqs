@@ -26,11 +26,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1910" height="651" alt="image" src="https://github.com/user-attachments/assets/3fd16737-bf64-4418-8e82-88818a850309" />
 </p>
 <p>
 ```bash
-sudo apt install apache2 mariadb-server php php-cli php-common php-gd php-mysql php-mbstring php-xml php-curl php-zip unzip -y
+   sudo apt install apache2 mariadb-server php php-cli php-common php-gd php-mysql php-mbstring php-xml php-curl php-zip unzip -y
 ```
 This installs most of the dependencies needed for Osticket.
 </p>
