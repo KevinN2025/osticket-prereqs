@@ -43,7 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1920" height="972" alt="MariaDB_running" src="https://github.com/user-attachments/assets/e3ea9a93-6d8a-4f27-824e-cd364f5d9b79" />
 </p>
 <p>
-Enable MariaDB and Apache Daemons:
+Start MariaDB and Apache Daemons:
    
 ```bash
 sudo systemctl start apache2
