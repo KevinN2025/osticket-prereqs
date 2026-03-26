@@ -38,6 +38,7 @@ This installs most of the dependencies needed for Osticket.
 
 <p>
 <img width="1788" height="678" alt="Apache_running" src="https://github.com/user-attachments/assets/530d0367-b8e3-4853-9a2d-ccbdf76bb871" />
+   
 <img width="1920" height="972" alt="MariaDB_running" src="https://github.com/user-attachments/assets/e3ea9a93-6d8a-4f27-824e-cd364f5d9b79" />
 </p>
 <p>
@@ -86,6 +87,7 @@ sudo chmod -R 755 /var/www/html/osticket
 
 <p>
 <img width="1084" height="443" alt="image" src="https://github.com/user-attachments/assets/030cf0e9-13a7-4ade-9d78-5dbee700151b" />
+   
 <img width="1837" height="938" alt="DNS_Configuration" src="https://github.com/user-attachments/assets/a506b699-46d6-44de-b398-c82b9a3af189" />
 </p>
 <p>
